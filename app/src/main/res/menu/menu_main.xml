@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.raed.chatapp.MainActivity">
+    <item android:id="@+id/menu_singout"
+          android:orderInCategory="100"
+          android:title="@string/sign_out"
+          app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_lock_power_off" />
+</menu>

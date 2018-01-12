@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_button">Send</string>
+    <string name="Image_discription">Image Holder</string>
+    <string name="sign_out">Sign out</string>
+    <string name="empty_chat">There is no messages</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
